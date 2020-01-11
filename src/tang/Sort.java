@@ -9,6 +9,8 @@ public class Sort {
 	{
 		if(unsort.size()>=2) 
 		{
+//good moring
+//how are you
 			int mid = unsort.size() /2;
 			ArrayList<T> right = new ArrayList<T>();
 			ArrayList<T> left = new ArrayList<T>();
